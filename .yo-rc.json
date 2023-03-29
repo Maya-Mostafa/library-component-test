@@ -1,0 +1,21 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "16.15.0",
+    "sdksVersions": {
+      "@microsoft/microsoft-graph-client": "3.0.2",
+      "@microsoft/teams-js": "2.4.1"
+    },
+    "version": "1.16.1",
+    "libraryName": "library-component-test",
+    "libraryId": "f5922b70-bfc4-4ee1-85d6-5cbbd371d79a",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "library-component-test",
+    "solutionShortDescription": "library-component-test description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "library"
+  }
+}
